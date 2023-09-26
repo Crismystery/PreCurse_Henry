@@ -1,2 +1,1 @@
-# PreCurse_Henry
-Este es un repositorio es una prueba del modulo2 de precurse de Henry
+preuba de como crear un repositorio y clonar desde github a la computadora.
